@@ -453,7 +453,7 @@ class Locker
         {
           setCursorPos(2,45);
           SetColor(10);
-          cout << " Folder Already Locked !";
+          cout << " Folder is Already locked !";
           scrClr(1.5);
           SetColor(15);
           exit(0);
