@@ -1,6 +1,7 @@
 
 Instruction manual &Tips : 
 
+
 1)Folder path should not be containing space as well special sysmbols
 & use folders and files name that are fully unique becuase they protects your data from being exposed at OS level searching 
 e.g. jsn-km-jsn-28-jbsdbb-apmx-269  like that folder name can give 100% security against Unauthorised Access
@@ -11,3 +12,5 @@ e.g. jsn-km-jsn-28-jbsdbb-apmx-269  like that folder name can give 100% security
 7) use software in small console screen that might comfortable for typing passwords
 8) keep a back up copy of locker and unlocker to cloud
 
+[9] whatever data you are going to keep inside a folder please rename it for better security e.g. private_notes.txt -----> anc7268jbjeifw.txt
+like that provide full% security
