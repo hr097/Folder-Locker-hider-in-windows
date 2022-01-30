@@ -1,2 +1,2 @@
-# Folder-Locker-hider-in-windows-by-C-
+# Folder-Locker-hider-in-windows-by-C- 	![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 Now a days most of computers have more than 1 Logged In users at same time in OS system so some of the folders of one user might be compromised by another user , so in order achieve full  security of private folders &amp; data by locking the folder and hiding it can give you protection  against Unauthorised User. for that You can use my a little but very powerful software "H-LOCKER."
